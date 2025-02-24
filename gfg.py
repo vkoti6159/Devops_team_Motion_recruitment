@@ -1,0 +1,1 @@
+print("Geeks or geeks")
