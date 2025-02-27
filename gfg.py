@@ -1,1 +1,0 @@
-print("Geeks or geeks")
