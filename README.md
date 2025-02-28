@@ -1,1 +1,0 @@
-# Devops_team_Motion_recruitment
